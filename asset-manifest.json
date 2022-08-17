@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tamoimi/distribute.git/static/css/main.073c9b0a.css",
+    "main.js": "/tamoimi/distribute.git/static/js/main.dd82ac8f.js",
+    "static/js/787.ec704a7a.chunk.js": "/tamoimi/distribute.git/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/tamoimi/distribute.git/index.html",
+    "main.073c9b0a.css.map": "/tamoimi/distribute.git/static/css/main.073c9b0a.css.map",
+    "main.dd82ac8f.js.map": "/tamoimi/distribute.git/static/js/main.dd82ac8f.js.map",
+    "787.ec704a7a.chunk.js.map": "/tamoimi/distribute.git/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd82ac8f.js"
+  ]
+}
